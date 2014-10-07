@@ -9,3 +9,4 @@ url: "http://icon-test.hypernovastudio.com" # the base hostname & protocol for y
 
 # Build settings
 markdown: kramdown
+exclude: [Gemfile, Gemfile.lock, CNAME]
