@@ -4,8 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a test for different favicon configurations. It is based on
   images and code generated via the Real Favicon Generator by phbernard.
   The main focus of this test is desktop browsers and Android.
-baseurl: "/icon-test/" # the subpath of your site, e.g. /blog/
-url: "http://hypernova-design.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://icon-test.hypernovastudio.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
